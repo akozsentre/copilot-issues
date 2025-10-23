@@ -7,3 +7,5 @@ Generated documentation for copilot-issues.
 # PR Merge: 2025-10-23 - enhancement/merge-5150
 
 # PR Merge: 2025-10-23 - feature/merge-5518
+
+# PR Update: 2025-10-23 - docs/update-6020
